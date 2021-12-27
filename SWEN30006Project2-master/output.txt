@@ -1,0 +1,18 @@
+Buildfile: C:\Users\fhoward\Desktop\Uni\SMD\P2Validation\build.xml
+
+init:
+    [mkdir] Created dir: C:\Users\fhoward\Desktop\Uni\SMD\P2Validation\tmp_unzipped\build
+
+compile:
+    [javac] C:\Users\fhoward\Desktop\Uni\SMD\P2Validation\build.xml:32: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 17 source files to C:\Users\fhoward\Desktop\Uni\SMD\P2Validation\tmp_unzipped\build
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+dist:
+    [mkdir] Created dir: C:\Users\fhoward\Desktop\Uni\SMD\P2Validation\tmp_unzipped\dist\lib
+      [jar] Building jar: C:\Users\fhoward\Desktop\Uni\SMD\P2Validation\tmp_unzipped\dist\lib\Project1.jar
+
+BUILD SUCCESSFUL
+Total time: 1 second
+results successful! 
